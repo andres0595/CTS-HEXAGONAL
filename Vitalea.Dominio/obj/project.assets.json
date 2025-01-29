@@ -294,11 +294,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\guerrero.juver\\Desktop\\Proyectos\\CTS-HEXAGONAL\\Vitalea.Dominio\\Vitalea.Dominio.csproj",
+      "projectUniqueName": "C:\\Users\\guerrero.juver\\Desktop\\Proyectos\\HEXAGONAL-CTS\\CTS-HEXAGONAL\\Vitalea.Dominio\\Vitalea.Dominio.csproj",
       "projectName": "Vitalea.Dominio",
-      "projectPath": "C:\\Users\\guerrero.juver\\Desktop\\Proyectos\\CTS-HEXAGONAL\\Vitalea.Dominio\\Vitalea.Dominio.csproj",
+      "projectPath": "C:\\Users\\guerrero.juver\\Desktop\\Proyectos\\HEXAGONAL-CTS\\CTS-HEXAGONAL\\Vitalea.Dominio\\Vitalea.Dominio.csproj",
       "packagesPath": "C:\\Users\\guerrero.juver\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\guerrero.juver\\Desktop\\Proyectos\\CTS-HEXAGONAL\\Vitalea.Dominio\\obj\\",
+      "outputPath": "C:\\Users\\guerrero.juver\\Desktop\\Proyectos\\HEXAGONAL-CTS\\CTS-HEXAGONAL\\Vitalea.Dominio\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7Qilj0YbJzZZDRw52s4T+g4H9UcRMxbNZjuaITzf4dxxy9wECbf65zle6v4zwerxHEaSQxh1cw4PxRgSE0qP4g==",
+  "dgSpecHash": "IixeFaEyzpqvtbVdcRstFan6fCzYWhErlCBoWfPVcZxo6BKSYUWCCGjm0hDYdhFaPEwZubhgR+meX4zS47ca0g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\guerrero.juver\\Desktop\\Proyectos\\CTS-HEXAGONAL\\Vitalea.Dominio\\Vitalea.Dominio.csproj",
+  "projectFilePath": "C:\\Users\\guerrero.juver\\Desktop\\Proyectos\\HEXAGONAL-CTS\\CTS-HEXAGONAL\\Vitalea.Dominio\\Vitalea.Dominio.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\guerrero.juver\\.nuget\\packages\\autofac\\8.0.0\\autofac.8.0.0.nupkg.sha512",
     "C:\\Users\\guerrero.juver\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.2.0\\microsoft.aspnetcore.http.abstractions.2.2.0.nupkg.sha512",

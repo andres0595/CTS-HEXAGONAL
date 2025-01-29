@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NZvRz2Sri3BvqtAahiB9vtsdmJxm3E0nj0tbKFwfZOSMWWNInsIZnwJi7h71tSQ492JLmiKTFpjZPWwCa53Akg==",
+  "dgSpecHash": "fxHG4ZBZ8e3G2wgvodNV1FkbQSz7DsFk3/DP8SuEb5HHGEq/8GYEbHYTa6t/7h+EcHY29ermGt5CuWRTb9N+ug==",
   "success": true,
-  "projectFilePath": "C:\\Users\\guerrero.juver\\Desktop\\Proyectos\\CTS-HEXAGONAL\\Vitalea.Infraestructura\\Vitalea.Infraestructura.csproj",
+  "projectFilePath": "C:\\Users\\guerrero.juver\\Desktop\\Proyectos\\HEXAGONAL-CTS\\CTS-HEXAGONAL\\Vitalea.Infraestructura\\Vitalea.Infraestructura.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\guerrero.juver\\.nuget\\packages\\autofac\\8.0.0\\autofac.8.0.0.nupkg.sha512",
     "C:\\Users\\guerrero.juver\\.nuget\\packages\\autofac.extensions.dependencyinjection\\9.0.0\\autofac.extensions.dependencyinjection.9.0.0.nupkg.sha512",
