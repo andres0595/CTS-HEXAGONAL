@@ -1,0 +1,12 @@
+C:\Users\guerrero.juver\Desktop\Proyectos\CTS-HEXAGONAL\Vitalea.Dominio\bin\Debug\net8.0\Vitalea.Dominio.deps.json
+C:\Users\guerrero.juver\Desktop\Proyectos\CTS-HEXAGONAL\Vitalea.Dominio\bin\Debug\net8.0\Vitalea.Dominio.dll
+C:\Users\guerrero.juver\Desktop\Proyectos\CTS-HEXAGONAL\Vitalea.Dominio\bin\Debug\net8.0\Vitalea.Dominio.pdb
+C:\Users\guerrero.juver\Desktop\Proyectos\CTS-HEXAGONAL\Vitalea.Dominio\obj\Debug\net8.0\Vitalea.Dominio.csproj.AssemblyReference.cache
+C:\Users\guerrero.juver\Desktop\Proyectos\CTS-HEXAGONAL\Vitalea.Dominio\obj\Debug\net8.0\Vitalea.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guerrero.juver\Desktop\Proyectos\CTS-HEXAGONAL\Vitalea.Dominio\obj\Debug\net8.0\Vitalea.Dominio.AssemblyInfoInputs.cache
+C:\Users\guerrero.juver\Desktop\Proyectos\CTS-HEXAGONAL\Vitalea.Dominio\obj\Debug\net8.0\Vitalea.Dominio.AssemblyInfo.cs
+C:\Users\guerrero.juver\Desktop\Proyectos\CTS-HEXAGONAL\Vitalea.Dominio\obj\Debug\net8.0\Vitalea.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\guerrero.juver\Desktop\Proyectos\CTS-HEXAGONAL\Vitalea.Dominio\obj\Debug\net8.0\Vitalea.Dominio.dll
+C:\Users\guerrero.juver\Desktop\Proyectos\CTS-HEXAGONAL\Vitalea.Dominio\obj\Debug\net8.0\refint\Vitalea.Dominio.dll
+C:\Users\guerrero.juver\Desktop\Proyectos\CTS-HEXAGONAL\Vitalea.Dominio\obj\Debug\net8.0\Vitalea.Dominio.pdb
+C:\Users\guerrero.juver\Desktop\Proyectos\CTS-HEXAGONAL\Vitalea.Dominio\obj\Debug\net8.0\ref\Vitalea.Dominio.dll

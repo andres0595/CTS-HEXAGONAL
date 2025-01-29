@@ -1,0 +1,15 @@
+C:\Users\guerrero.juver\Desktop\Proyectos\CTS-HEXAGONAL\Vitalea.Infraestructura\bin\Debug\net8.0\Vitalea.Infraestructura.deps.json
+C:\Users\guerrero.juver\Desktop\Proyectos\CTS-HEXAGONAL\Vitalea.Infraestructura\bin\Debug\net8.0\Vitalea.Infraestructura.dll
+C:\Users\guerrero.juver\Desktop\Proyectos\CTS-HEXAGONAL\Vitalea.Infraestructura\bin\Debug\net8.0\Vitalea.Infraestructura.pdb
+C:\Users\guerrero.juver\Desktop\Proyectos\CTS-HEXAGONAL\Vitalea.Infraestructura\bin\Debug\net8.0\Vitalea.Dominio.dll
+C:\Users\guerrero.juver\Desktop\Proyectos\CTS-HEXAGONAL\Vitalea.Infraestructura\bin\Debug\net8.0\Vitalea.Dominio.pdb
+C:\Users\guerrero.juver\Desktop\Proyectos\CTS-HEXAGONAL\Vitalea.Infraestructura\obj\Debug\net8.0\Vitalea.Infraestructura.csproj.AssemblyReference.cache
+C:\Users\guerrero.juver\Desktop\Proyectos\CTS-HEXAGONAL\Vitalea.Infraestructura\obj\Debug\net8.0\Vitalea.Infraestructura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guerrero.juver\Desktop\Proyectos\CTS-HEXAGONAL\Vitalea.Infraestructura\obj\Debug\net8.0\Vitalea.Infraestructura.AssemblyInfoInputs.cache
+C:\Users\guerrero.juver\Desktop\Proyectos\CTS-HEXAGONAL\Vitalea.Infraestructura\obj\Debug\net8.0\Vitalea.Infraestructura.AssemblyInfo.cs
+C:\Users\guerrero.juver\Desktop\Proyectos\CTS-HEXAGONAL\Vitalea.Infraestructura\obj\Debug\net8.0\Vitalea.Infraestructura.csproj.CoreCompileInputs.cache
+C:\Users\guerrero.juver\Desktop\Proyectos\CTS-HEXAGONAL\Vitalea.Infraestructura\obj\Debug\net8.0\Vitalea..AA28EE84.Up2Date
+C:\Users\guerrero.juver\Desktop\Proyectos\CTS-HEXAGONAL\Vitalea.Infraestructura\obj\Debug\net8.0\Vitalea.Infraestructura.dll
+C:\Users\guerrero.juver\Desktop\Proyectos\CTS-HEXAGONAL\Vitalea.Infraestructura\obj\Debug\net8.0\refint\Vitalea.Infraestructura.dll
+C:\Users\guerrero.juver\Desktop\Proyectos\CTS-HEXAGONAL\Vitalea.Infraestructura\obj\Debug\net8.0\Vitalea.Infraestructura.pdb
+C:\Users\guerrero.juver\Desktop\Proyectos\CTS-HEXAGONAL\Vitalea.Infraestructura\obj\Debug\net8.0\ref\Vitalea.Infraestructura.dll
