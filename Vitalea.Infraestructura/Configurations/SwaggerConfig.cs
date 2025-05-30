@@ -15,7 +15,7 @@ namespace Vitalea.Infraestructura.Configurations
         {
             services.AddSwaggerGen(c =>
             {
-                c.SwaggerDoc("V3", new OpenApiInfo { Title = "CTS VITALEA API", Version = "V3" });
+                c.SwaggerDoc("V3", new OpenApiInfo { Title = "API", Version = "V3" });
                 var baseDirectory = AppDomain.CurrentDomain.BaseDirectory;
                 var filepath = Path.Combine(baseDirectory, "vitalea.xml");
                 c.IncludeXmlComments(filepath);
